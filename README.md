@@ -8,7 +8,7 @@
 #### 后端：[查看](https://cars.demo.changzhiwei.cn/admin.php)
 
 
-## :tw-1f310:  源码下载地址：[查看](https://www.fastadmin.net/store/cars.html)
+源码下载地址：[查看](https://www.fastadmin.net/store/cars.html)
 
 
 ```
